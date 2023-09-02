@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/seesmof/">
-    <img src="./public/logo.png" alt="Logo" height="80">
+    <img src="./icon.png" alt="Logo" height="80">
   </a>
 
 <h1 align="center">Open ChatGPT extension</h1>
@@ -22,7 +22,7 @@ This repository contains a browser extension for adding a keystroke for opening 
 ## Links
 
 - [Live Preview](https://seesmof.github.io/quick-link-extension/)
-- [Icon](https://www.flaticon.com/)
+- [Icon](https://www.flaticon.com/free-icons/bot)
 
 ## License
 
