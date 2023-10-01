@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Quick Link Extension",
-  "description": "Opens a website with a keystroke",
-  "version": "1.0",
+  "description": "This extension provides quick access to frequently visited websites with a simple keystroke. Currently supports ChatGPT and Bing Chat.",
+  "version": "1.0.0",
   "permissions": ["activeTab"],
   "commands": {
     "open-chat-gpt": {
@@ -10,14 +10,14 @@
         "default": "Alt+Q",
         "mac": "Alt+Q"
       },
-      "description": "Open ChatGPT"
+      "description": "Opens ChatGPT in a new tab."
     },
     "open-bing-chat": {
       "suggested_key": {
         "default": "Alt+Z",
         "mac": "Alt+Z"
       },
-      "description": "Open Bing Chat"
+      "description": "Opens Bing Chat in a new tab."
     }
   },
   "background": {
@@ -26,11 +26,7 @@
   },
   "browser_action": {
     "default_popup": "popup.html",
-    "default_icon": {
-      "16": "icon.png",
-      "48": "icon.png",
-      "128": "icon.png"
-    }
+    "default_icon": "icon.png"
   },
   "icons": {
     "16": "icon.png",
