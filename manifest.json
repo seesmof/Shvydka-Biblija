@@ -5,12 +5,19 @@
   "version": "1.0",
   "permissions": ["activeTab"],
   "commands": {
-    "open-website": {
+    "open-chat-gpt": {
       "suggested_key": {
-        "default": "Ctrl+Shift+O",
-        "mac": "MacCtrl+Shift+O"
+        "default": "Alt+Q",
+        "mac": "Alt+Q"
       },
-      "description": "Open a website"
+      "description": "Open ChatGPT"
+    },
+    "open-bing-chat": {
+      "suggested_key": {
+        "default": "Alt+Z",
+        "mac": "Alt+Z"
+      },
+      "description": "Open Bing Chat"
     }
   },
   "background": {
