@@ -10,3 +10,10 @@
 contains a browser extension to quickly open websites like BibleGateway, BibleHub, BlueLetterBible,...
 
 ###### installation instructions
+1. go to extensions tab
+  ![](https://i.imgur.com/Zfp2oFc.png)
+2. select "upload unpacked extension" option from the menu
+   ![](https://i.imgur.com/jNA9f7G.png)
+   - if you dont see that option, make sure the developer mode is enabled
+3. select the extension folder and activate it
+  ![](https://i.imgur.com/TC9M1h4.png)
