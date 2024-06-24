@@ -1,31 +1,12 @@
-<a name="readme-top"></a>
+**Trust in the Lord with all your heart And do not lean on your own understanding. In all your ways acknowledge Him, And He will make your paths straight. Do not be wise in your own eyes; Fear the Lord and turn away from evil.**
+– [Proverbs 3:5-7 NASB](https://www.biblegateway.com/passage/?search=Proverbs+3%3A5-7&version=NASB;KJV)
 
-<div align="center">
-  <a href="https://github.com/seesmof/">
-    <img src="./icon.png" alt="Logo" height="80">
-  </a>
+**Conduct yourselves with wisdom toward outsiders, making the most of the opportunity.**
+– [Colossians 4:5 NASB](https://www.biblegateway.com/passage/?search=Colossians+4%3A5&version=NASB,KJV)
 
-<h1 align="center">Open ChatGPT extension</h1>
-</div>
+**So then, be careful how you walk, not as unwise people but as wise, making the most of your time, because the days are evil. Therefore do not be foolish, but understand what the will of the Lord is.**
+– [Ephesians 5:15-17 NASB](https://www.biblegateway.com/passage/?search=Ephesians+5%3A15-17&version=NASB,KJV)
 
-## Table of contents
+contains a browser extension to quickly open websites like BibleGateway, BibleHub, BlueLetterBible,...
 
-- [Table of contents](#table-of-contents)
-- [About](#about)
-- [Links](#links)
-- [License](#license)
-
-## About
-
-This repository contains a browser extension for adding a keystroke for opening ChatGPT website.
-
-## Links
-
-- [Live Preview](https://seesmof.github.io/quick-link-extension/)
-- [Icon](https://www.flaticon.com/free-icons/bot)
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
-<p align="right"><a href="#readme-top"><strong>Back to top</strong></a></p>
+###### installation instructions
