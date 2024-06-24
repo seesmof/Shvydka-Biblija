@@ -1,23 +1,37 @@
 {
   "manifest_version": 2,
   "name": "Quick Link Extension",
-  "description": "This extension provides quick access to frequently visited websites with a simple keystroke. Currently supports ChatGPT and Bing Chat.",
+  "description": "Opens links to Bible websites for the Glory of Jesus Christ our Holy Lord GOD Almighty ✝️❣️🕊️",
   "version": "1.0.0",
   "permissions": ["activeTab"],
   "commands": {
-    "open-chat-gpt": {
-      "suggested_key": {
-        "default": "Alt+Q",
-        "mac": "Alt+Q"
-      },
-      "description": "Opens ChatGPT in a new tab."
-    },
     "open-bing-chat": {
       "suggested_key": {
         "default": "Alt+Z",
         "mac": "Alt+Z"
       },
       "description": "Opens Bing Chat in a new tab."
+    },
+    "open-phind": {
+      "suggested_key": {
+        "default": "Alt+C",
+        "mac": "Alt+C"
+      },
+      "description": "Opens Phind in a new tab."
+    },
+    "open-Blue-Letter-Bible": {
+      "suggested_key": {
+        "default": "Alt+V",
+        "mac": "Alt+V"
+      },
+      "description": "Opens Blue Letter Bible website in a new tab."
+    },
+    "open-Bible-Hub": {
+      "suggested_key": {
+        "default": "Alt+W",
+        "mac": "Alt+W"
+      },
+      "description": "Opens Berean Standard Bible on BibleHub in a new tab."
     }
   },
   "background": {
@@ -25,12 +39,11 @@
     "persistent": false
   },
   "browser_action": {
-    "default_popup": "popup.html",
-    "default_icon": "icon.png"
+    "default_icon": "cover.png"
   },
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "cover.png",
+    "48": "cover.png",
+    "128": "cover.png"
   }
 }
