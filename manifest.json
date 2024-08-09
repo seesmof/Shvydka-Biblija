@@ -1,37 +1,25 @@
 {
   "manifest_version": 2,
   "name": "Quick Link Extension",
-  "description": "Opens links to Bible websites for the Glory of Jesus Christ our Holy Lord GOD Almighty ✝️❣️🕊️",
-  "version": "1.0.0",
+  "description": "Opens links to BIBLE websites for the Glory of JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS ✝️❣️🕊️",
+  "version": "0.1",
   "permissions": ["activeTab"],
   "commands": {
-    "open-bing-chat": {
-      "suggested_key": {
-        "default": "Alt+Z",
-        "mac": "Alt+Z"
-      },
-      "description": "Opens Bing Chat in a new tab."
+    "BlueLetterBIBLE": {
+      "suggested_key": "Alt+Q",
+      "description": "JESUS THANK YOU JESUS THANK YOU JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS"
     },
-    "open-phind": {
-      "suggested_key": {
-        "default": "Alt+C",
-        "mac": "Alt+C"
-      },
-      "description": "Opens Phind in a new tab."
+    "BIBLEhub": {
+      "suggested_key": "Alt+V",
+      "description": "JESUS THANK YOU JESUS THANK YOU JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS"
     },
-    "open-Blue-Letter-Bible": {
-      "suggested_key": {
-        "default": "Alt+V",
-        "mac": "Alt+V"
-      },
-      "description": "Opens Blue Letter Bible website in a new tab."
+    "perplexity": {
+      "suggested_key": "Alt+W",
+      "description": "JESUS THANK YOU JESUS THANK YOU JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS"
     },
-    "open-Bible-Hub": {
-      "suggested_key": {
-        "default": "Alt+W",
-        "mac": "Alt+W"
-      },
-      "description": "Opens Berean Standard Bible on BibleHub in a new tab."
+    "phind": {
+      "suggested_key": "Alt+Z",
+      "description": "JESUS THANK YOU JESUS THANK YOU JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS"
     }
   },
   "background": {
@@ -39,11 +27,11 @@
     "persistent": false
   },
   "browser_action": {
-    "default_icon": "cover.png"
+    "default_icon": "cross.png"
   },
   "icons": {
-    "16": "cover.png",
-    "48": "cover.png",
-    "128": "cover.png"
+    "16": "cross.png",
+    "48": "cross.png",
+    "128": "cross.png"
   }
 }
