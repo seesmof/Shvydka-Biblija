@@ -2,7 +2,7 @@ chrome.commands.onCommand.addListener((command) => {
   const commandsMap = {
     BlueLetterBIBLE: "https://www.blueletterbible.org/",
     BIBLEhub: "https://biblehub.com/bsb/",
-    perplexity: "https://www.perplexity.ai/",
+    bolls: "https://bolls.life/",
     phind: "https://www.phind.com/agent",
   };
 
