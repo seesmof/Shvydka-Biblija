@@ -2,24 +2,16 @@
   "manifest_version": 2,
   "name": "Quick Link Extension",
   "description": "Opens links to BIBLE websites for the Glory of JESUS CHRIST our HOLY LORD GOD ALMIGHTY KING OF KINGS AND LORD OF LORDS ✝️❣️🕊️",
-  "version": "0.1",
+  "version": "0.1.2",
   "permissions": ["activeTab"],
   "commands": {
     "BlueLetterBIBLE": {
       "suggested_key": "Alt+Q",
       "description": "Blue Letter BIBLE - HALLELUJAH THANK YOU JESUS CHRIST"
     },
-    "gemini": {
-      "suggested_key": "Alt+C",
-      "description": "gemini ai JESUS THANK YOU JESUS HALLELUJAH"
-    },
     "bolls": {
       "suggested_key": "Alt+W",
       "description": "bolls life BIBLE app JESUS THANK YOU JESUS HALLELUJAH"
-    },
-    "phind": {
-      "suggested_key": "Alt+Z",
-      "description": "phind chat - JESUS THANK YOU HALLELUJAH THANK YOU JESUS CHRIST our HOLY LORD GOD ALMIGHTY"
     }
   },
   "background": {
