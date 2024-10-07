@@ -1,7 +1,8 @@
 chrome.commands.onCommand.addListener((command) => {
   const commandsMap = {
-    BlueLetterBIBLE: "https://www.blueletterbible.org/study/hta/hta.cfm#s=1",
-    bolls: "https://bolls.life/",
+    YouVersion:
+      "https://www.bible.com/uk/users/OlegOnyshchenko504/reading-plans",
+    BollsLife: "https://bolls.life/",
   };
 
   if (commandsMap[command]) {
