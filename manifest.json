@@ -11,6 +11,10 @@
     "BollsLife": {
       "suggested_key": "Alt+W",
       "description": "Bolls.Life"
+    },
+    "eBible": {
+      "suggested_key": "Alt+Z",
+      "description": "eBible.org"
     }
   },
   "background": {
