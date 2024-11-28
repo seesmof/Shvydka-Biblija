@@ -8,6 +8,10 @@
       "suggested_key": "Alt+C",
       "description": "Bolls"
     },
+    "DailyVerse": {
+      "suggested_key": "Alt+Q",
+      "description": "DailyVerse"
+    },
     "eBible": {
       "suggested_key": "Alt+Z",
       "description": "eBible"
