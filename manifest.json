@@ -4,21 +4,13 @@
   "version": "0.1.2",
   "permissions": ["activeTab"],
   "commands": {
-    "YouVersion": {
-      "suggested_key": "Alt+Q",
-      "description": "YouVersion"
-    },
-    "BollsLife": {
-      "suggested_key": "Alt+W",
-      "description": "Bolls.Life"
+    "Bolls": {
+      "suggested_key": "Alt+C",
+      "description": "Bolls"
     },
     "eBible": {
       "suggested_key": "Alt+Z",
-      "description": "eBible.org"
-    },
-    "studyBible": {
-      "suggested_key": "Alt+C",
-      "description": "Pastors' Study Bible"
+      "description": "eBible"
     }
   },
   "background": {
