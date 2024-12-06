@@ -12,6 +12,10 @@
       "suggested_key": "Alt+C",
       "description": "BlueLetterBible"
     },
+    "BibleHub": {
+      "suggested_key": "Alt+A",
+      "description": "BibleHub"
+    },
     "YouVersion": {
       "suggested_key": "Alt+Q",
       "description": "YouVersion"
