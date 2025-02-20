@@ -1,7 +1,7 @@
 chrome.commands.onCommand.addListener((commandName) => {
   const commandNameToUrl = {
     eBible: "https://ebible.org/study/",
-    BlueLetterBible: "https://www.blueletterbible.org/",
+    TSK: "https://www.tsk-online.com/TSK/",
     InstantBible: "https://instant.bible/",
     BollsLife: "https://bolls.life/",
   };
